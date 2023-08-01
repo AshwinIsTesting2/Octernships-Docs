@@ -1,2 +1,2 @@
-# Octernship Assignment - Docs
-This is an octernship assignment on Docs
+Assignment - Docs
+This is an  assignment on Docs
